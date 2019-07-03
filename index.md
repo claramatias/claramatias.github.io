@@ -1,5 +1,5 @@
 ---
-OLA: default
+layout: default
 ---
 ---
 
